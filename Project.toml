@@ -1,0 +1,7 @@
+name = "XYZ"
+uuid = "d555afd6-99d6-40db-94df-071a7cf0ae95"
+authors = ["Miguel de la Puente <miguel.dlp@hotmail.es>"]
+version = "0.1.0"
+
+[deps]
+Parameters = "d96e819e-fc66-5662-9728-84c9c7592b0a"
