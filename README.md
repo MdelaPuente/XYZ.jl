@@ -2,7 +2,7 @@
 A Julia package to read MD trajectories in xyz format
 
 This package is heavily inspired by the one developed by Michael von Domaros (`mvondomaros`) for reading dcd
-formatted MD trajectories (see their [repository](https://github.com/mvondomaros/DCD.jl) and by the (private) 
+formatted MD trajectories (see their [repository](https://github.com/mvondomaros/DCD.jl)) and by the (private) 
 work of Axel Gomez.
 It only works for trajectories with a constant number of atoms (can not be used for GCMC simulations for example) 
 but the atoms can be in different orders in different frames.
